@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/matiaschiodo/bienes-raices/issues"
   },
-  "homepage": "https://matiaschiodo.github.io/bienes-raices",
-  "dependencies": {
-    "gh-pages": "^3.2.3"
-  }
+  "homepage": "https://matiaschiodo.github.io/bienes-raices"
 }
